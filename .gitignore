@@ -6,6 +6,10 @@ bin-release/
 
 # Other files and folders
 .settings/
+Assets/_MK
+Assets/Animated racing arrows
+Assets/arrows signs folder
+Assets/Plugins/iOS
 
 # Executables
 *.swf
